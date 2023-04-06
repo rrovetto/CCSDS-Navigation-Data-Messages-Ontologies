@@ -29,21 +29,14 @@ You can help by offerring financial support, employment opportunities, graduate 
   * [Patreon](https://tinyurl.com/y9qegjsh)
   * [GoGetFunding](https://gogetfunding.com/?p=6893352)
 
-
 ## Author
 [Robert J. Rovetto](http://orcid.org/0000-0003-3835-7817) - [Space Ontologist](https://purl.org/space-ontology)
 - member of CCSDS
 
-
-## Relevant Publications & Presentations
+## Relevant Publications & Presentations by Author
 [See this webpage for full list of relevant articles](https://ontospace.wordpress.com/publications)
 
 * [3] ["Orbital Debris Ontology, Terminology, and Knowledge Modeling"](https://ntrs.nasa.gov/search.jsp?R=20200000988), T.S.Kelso (CelesTrak), R.Rovetto, D.A.O'Neil (NASA)
-
-##Status & Access
-- In-progresss (pending formal support to develop). Subject to revision. No claims to completeness.
-- Funding/sponsors, work collaborations or a PhD study opportunity are needed to continue, sustain and complete development. [Contact the author with interest and offers to help formally support or discuss formal work collaborations](https://ontospace.wordpress.com/contact) [Or Contact via email(mailto:rrovetto@terpalum.umd.edu)
-
 
 ## Research Material 
 - [CCSDS NDM informational report CCSDS 500.2-G-2](https://public.ccsds.org/Pubs/500x2g2.pdf)
@@ -51,6 +44,10 @@ You can help by offerring financial support, employment opportunities, graduate 
 - https://cwe.ccsds.org/fm/Lists/Projects/DispForm.aspx?ID=639
 - https://ntrs.nasa.gov/citations/20210008315
 - https://github.com/rrovetto/Orbital-Space-Ontology-Project
+##  Access
+- In-progresss (pending formal support to develop). Subject to revision. No claims to completeness.
+- Funding/sponsors, work collaborations or a PhD study opportunity are needed to continue, sustain and complete development. [Contact the author with interest and offers to help formally support or discuss formal work collaborations](https://ontospace.wordpress.com/contact) [Or Contact via email(mailto:rrovetto@terpalum.umd.edu)
+
 
 ## Warranty
 No warranty. No liability. Presented "AS IS". No claims to completeness. Subject to revision.
