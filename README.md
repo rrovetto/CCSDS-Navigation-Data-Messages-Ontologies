@@ -22,11 +22,23 @@ The ontologies are intended to cover the content of/in the CCSDS Navigation Data
 - As a personal project, support is needed.
 - 
 ## Support - How you can help
+You can help by offerring financial support, employment opportunities, graduate study opportunities whereby this can be part of my thesis or projects, co-authorship on papers or proposal, mentorship, voluntary technical expertise/servies for desired functionalities of my project, relevant datasets to apply the ontology to, and to be a user of the ontology(s). [Contact](https://ontospace.wordpress.com/contact), or [schedule a meeting](https://tinyurl.com/hm8wu2sa) 
+
+* Donate: 
+  * [PayPal](https://tinyurl.com/donateViaPayPalrr)
+  * [Patreon](https://tinyurl.com/y9qegjsh)
+  * [GoGetFunding](https://gogetfunding.com/?p=6893352)
 
 
 ## Author
-[Robert J. Rovetto](https://orcid.org/0000-0003-3835-7817)
+[Robert J. Rovetto](http://orcid.org/0000-0003-3835-7817) - [Space Ontologist](https://purl.org/space-ontology)
 - member of CCSDS
+
+
+## Relevant Publications & Presentations
+[See this webpage for full list of relevant articles](https://ontospace.wordpress.com/publications)
+
+* [3] ["Orbital Debris Ontology, Terminology, and Knowledge Modeling"](https://ntrs.nasa.gov/search.jsp?R=20200000988), T.S.Kelso (CelesTrak), R.Rovetto, D.A.O'Neil (NASA)
 
 ##Status & Access
 - In-progresss (pending formal support to develop). Subject to revision. No claims to completeness.
@@ -44,4 +56,7 @@ The ontologies are intended to cover the content of/in the CCSDS Navigation Data
 No warranty. No liability. Presented "AS IS". No claims to completeness. Subject to revision.
 
 ## Copyright
-(c)2018-2023, Robert J. Rovetto. All rights reserved.
+©2018-2023, Robert J. Rovetto. All rights reserved.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
+No warranty. Presented "AS IS". Author and copyright holder is not liable. All content, work and products are subject to revision. No claims to completeness or complete accuracy.
+
