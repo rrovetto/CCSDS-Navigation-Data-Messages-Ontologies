@@ -1,5 +1,5 @@
 # The CCSDS ODM Ontology
-An ontology of the CCSDS Orbit Data Message (ODM).
+A family of ontologies of the CCSDS Orbit Data Message (ODM) family of messages: OEM, OPM, OMM.
 
 ## Reference Documents
 - [CCSDS ODM CCSDS 502.0-B-2 dcoument](https://public.ccsds.org/Pubs/502x0b2c1e2.pdf)
