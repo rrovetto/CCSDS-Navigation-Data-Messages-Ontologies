@@ -10,6 +10,9 @@ The ontologies are intended to cover the content of/in the CCSDS Navigation Data
 - the CCSDS OEM
 - the CCSDS OPM
 
+![image](https://github.com/rrovetto/CCSDS-Navigation-Data-Messages-Ontologies/blob/3be826dbc7e24224570911a73fc74afe4e52459f/images/NDMTaxo_NDMOntologies_Rovetto.jpg)
+Figure (left): Taxonomy of CCSDS NDM. Figure (right): The project concept - developing ontologies for each NDM
+
 ### Purpose
 - To provide a coontemporary ontology / conceptual data model / semantic data model for the family of CCSDS Navigation Data Messages
 - To provide another format for the messages, minimally OWL, but also intending KIF, CLIF/CL, etc.
