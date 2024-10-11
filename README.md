@@ -4,28 +4,24 @@ A suite of ontologies for the [CCSDS](https://public.ccsds.org/default.aspx) fam
 ## Description
 
 ### Scope
-The ontologies are intended to cover the content of/in the CCSDS Navigation Data Messages. This includes the keywords used in the respective CCSDS standard documents and the described data messages. It specifically includes each of the data messages: 
-- the CCSDS Orbit Data Message
-- the CCSDS Orbit Mean Element Message
-- the CCSDS OEM
-- the CCSDS OPM
+The ontologies are intended to cover the content of/in the [CCSDS Navigation Data Messages](https://public.ccsds.org/Pubs/500x0g4.pdf), including the key concepts expressed and keywords used in the respective standard documents and in the described data messages. It specifically includes: the Orbit Conjunction Data Message, Orbit Mean-Elements Message, Orbit Ephemeris Message, Orbit Parameter Message.
 
 ![image](https://github.com/rrovetto/CCSDS-Navigation-Data-Messages-Ontologies/blob/3be826dbc7e24224570911a73fc74afe4e52459f/images/NDMTaxo_NDMOntologies_Rovetto.jpg)
-Figure (left): Taxonomy of CCSDS NDM. Figure (right): The project concept - developing ontologies for each NDM
+**Figure** (left): Taxonomy of CCSDS NDM. **Figure** (right): The project concept - developing ontologies for each NDM
 
 ### Purpose
-- To provide a coontemporary ontology / conceptual data model / semantic data model for the family of CCSDS Navigation Data Messages
-- To provide another format for the messages, minimally OWL, but also intending KIF, CLIF/CL, etc.
-- To innovate for supporting space data managemnet, and spaceflight safety and sustainability
-
-### Architecture
+- To provide a set of conceptual models / semantic models / ontologies / knowledge models for the CCSDS Navigation Data Messages, in order to provide globally-applicable formal representations of the content and semantics of the messages.
+- To supplement currently used (as of 2024) formats of CSV, KVN, JSON, XML with additional formats of OWL, ORM, CLIF/CL, etc.
+- To explore contemporary AI techniques, namely knowledge representation, semantic web technologies.
+- To ideate and innovate in support of space data managemnet, and spaceflight safety and sustainability
 
 ### Status
 - In progress, dependent on support
-- As a personal project, support is needed.
-- 
+- As a personal project, support is needed (see links below)
+  
 ## Support - How you can help
-You can help by offerring financial support, employment opportunities, graduate study opportunities whereby this can be part of my thesis or projects, co-authorship on papers or proposal, mentorship, voluntary technical expertise/servies for desired functionalities of my project, relevant datasets to apply the ontology to, and to be a user of the ontology(s). [Contact](https://ontospace.wordpress.com/contact), or [schedule a meeting](https://tinyurl.com/hm8wu2sa) 
+You can help by offerring financial support, employment or study opportunities, industry partnerships, use-cases, datasets, subject-matter expertise, mentorship, technical services, co-authorship invitations
+[Contact](https://ontospace.wordpress.com/contact), or [schedule a meeting](https://tinyurl.com/hm8wu2sa) 
 
 * Donate: 
   * [PayPal](https://tinyurl.com/donateViaPayPalrr)
@@ -48,15 +44,13 @@ You can help by offerring financial support, employment opportunities, graduate 
 - https://ntrs.nasa.gov/citations/20210008315
 - https://github.com/rrovetto/Orbital-Space-Ontology-Project
 ##  Access
-- In-progresss (pending formal support to develop). Subject to revision. No claims to completeness.
+- Contact to purchase use of the models
 - Funding/sponsors, work collaborations or a PhD study opportunity are needed to continue, sustain and complete development. [Contact the author with interest and offers to help formally support or discuss formal work collaborations](https://ontospace.wordpress.com/contact) [Or Contact via email(mailto:rrovetto@terpalum.umd.edu)
 
 
-## Warranty
-No warranty. No liability. Presented "AS IS". No claims to completeness. Subject to revision.
+## Disclaimer and Warranty
+All content, software, products, etc. ("works" for short) are presented and provded "AS IS". No warranty. No liability. The author, developer(s) and copyright holder are not liable for any damages or problems resulting from use of the works. All works subject to revision. No claims to completeness or accuracy.
 
 ## Copyright
-©2018-2023, Robert J. Rovetto. All rights reserved.
+©2018-2025, Robert J. Rovetto. All rights reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
-No warranty. Presented "AS IS". Author and copyright holder is not liable. All content, work and products are subject to revision. No claims to completeness or complete accuracy.
-
