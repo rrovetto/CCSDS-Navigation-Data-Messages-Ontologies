@@ -42,7 +42,7 @@ You can help by offerring financial support, employment or study opportunities, 
 * ["Orbital Debris Ontology, Terminology, and Knowledge Modeling"](https://ntrs.nasa.gov/search.jsp?R=20200000988), T.S.Kelso (CelesTrak), R.Rovetto, D.A.O'Neil (NASA
 
 ## Research Material 
-- [CCSDS NDM informational report CCSDS 500.2-G-2](https://public.ccsds.org/Pubs/500x2g2.pdf)
+- [CCSDS NDM informational report CCSDS 500.2-G-2](https://public.ccsds.org/Pubs/500x2g2.pdf) or [2023 version](https://public.ccsds.org/Pubs/500x2g3.pdf)
 - [XML Specificaiton CCSDS 505.0-B-2 for NDM](https://public.ccsds.org/Pubs/505x0b2.pdf)
 - https://cwe.ccsds.org/fm/Lists/Projects/DispForm.aspx?ID=639
 - https://ntrs.nasa.gov/citations/20210008315
