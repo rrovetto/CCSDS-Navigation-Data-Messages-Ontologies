@@ -55,6 +55,8 @@ You can help by offerring financial support, employment or study opportunities, 
 ## Disclaimer and Warranty
 All content, software, products, etc. ("works" for short) are presented and provded "AS IS". No warranty. No liability. The author, developer(s) and copyright holder are not liable for any damages or problems resulting from use of the works. All works subject to revision. No claims to completeness or accuracy.
 
+Presently, this is independent work by the author, not a CCSDS project. However, the author desires for this to be a project in CCSDS. That is, the author desires formal partnerships whereby (a) these products can be used by CCSDS as the CCSDS NDMs in the proposed additional formats, or (b) the author can spearheard or otherwise help develop the proposed products for the NDMs. 
+
 ## Copyright
 ©2018-2025, Robert J. Rovetto. All rights reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
