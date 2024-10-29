@@ -1,6 +1,5 @@
 # The Family of CCSDS Navigation Data Messages Ontologies
-A suite of abstract models of and for the [CCSDS](https://public.ccsds.org/default.aspx) family of Navigation Data Messages (NDM). 
-The CCSDS NDMs in additional formats, such as RDF, OWL, ORM, CL to support the state of the art beyond the currently available formats (KVN, XML, etc.).
+A suite of abstract models of and for the [CCSDS](https://public.ccsds.org/default.aspx) family of Navigation Data Messages (NDM), providing the NDMs [_in additional formats_](https://iafastro.directory/iac/paper/id/82325/summary/), such as RDF, OWL, ORM, CL to support the state of the art beyond the currently available formats (KVN, XML, etc.).
 
 ## Description
 
