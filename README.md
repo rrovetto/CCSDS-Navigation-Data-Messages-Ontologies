@@ -1,5 +1,6 @@
 # The Family of CCSDS Navigation Data Messages (NDM) Ontologies
-A suite of ontologies for the [CCSDS](https://public.ccsds.org/default.aspx) family of Navigation Data Messages
+A suite of ontologies for the [CCSDS](https://public.ccsds.org/default.aspx) family of Navigation Data Messages. 
+The CCSDS NDMs in additional formats, such as RDF, OWL, ORM, CL, supporting the state of the art beyond the currently available formats.
 
 ## Description
 
@@ -20,6 +21,8 @@ The ontologies are intended to cover the content of/in the [CCSDS Navigation Dat
 - As a personal project, support is needed (see links below)
   
 ## Support - How you can help
+- If you find value in this work, please donate at the links below. As unfunded work in my own time, while searching for employment, studentships, and formal collaborations, your support will help maintain and provide ethical compensation for this work which stands to contribute to the community and support safe and sustainable spaceflight into the future. 
+
 You can help by offerring financial support, employment or study opportunities, industry partnerships, use-cases, datasets, subject-matter expertise, mentorship, technical services, co-authorship invitations
 [Contact](https://ontospace.wordpress.com/contact), or [schedule a meeting](https://tinyurl.com/hm8wu2sa) 
 
@@ -35,7 +38,8 @@ You can help by offerring financial support, employment or study opportunities, 
 ## Relevant Publications & Presentations by Author
 [See this webpage for full list of relevant articles](https://ontospace.wordpress.com/publications)
 
-* [3] ["Orbital Debris Ontology, Terminology, and Knowledge Modeling"](https://ntrs.nasa.gov/search.jsp?R=20200000988), T.S.Kelso (CelesTrak), R.Rovetto, D.A.O'Neil (NASA)
+* [2024 - Knowledge Representation and Model-based systems engineering for Space Data Standards and Fundamentals](https://iafastro.directory/iac/paper/id/82325/summary/), Rovetto.
+* ["Orbital Debris Ontology, Terminology, and Knowledge Modeling"](https://ntrs.nasa.gov/search.jsp?R=20200000988), T.S.Kelso (CelesTrak), R.Rovetto, D.A.O'Neil (NASA
 
 ## Research Material 
 - [CCSDS NDM informational report CCSDS 500.2-G-2](https://public.ccsds.org/Pubs/500x2g2.pdf)
