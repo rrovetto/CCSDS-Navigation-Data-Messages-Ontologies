@@ -32,9 +32,13 @@ You can help by offering financial support, employment or study opportunities, i
   * [GoGetFunding](https://gogetfunding.com/?p=6893352)
 
 ## Author
-[Robert J. Rovetto](http://orcid.org/0000-0003-3835-7817) - [Space Ontologist](https://purl.org/space-ontology)
-- member of CCSDS
-
+[Robert J. Rovetto](http://orcid.org/0000-0003-3835-7817) - [Space Ontologist link 1](https://purl.org/space-ontology) and [Link 2](https://ontospace.wordpress.com)
+- Member of CCSDS working groups
+- Mentee, International Astronautical Federation (IAF), Launchpad Mentorship Programme 2023-present)
+- Member, IAF Knowledge Management Technical Committee
+- Member, IAF Space Traffic Management Technical Committee
+- Member, AIAA Space Traffic Management Working Group
+  
 ## Relevant Publications & Presentations by Author
 [See this webpage for full list of relevant articles](https://ontospace.wordpress.com/publications)
 
