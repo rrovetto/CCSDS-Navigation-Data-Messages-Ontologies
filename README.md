@@ -1,11 +1,11 @@
-# The Family of CCSDS Navigation Data Messages (NDM) Ontologies
-A suite of ontologies for the [CCSDS](https://public.ccsds.org/default.aspx) family of Navigation Data Messages. 
-The CCSDS NDMs in additional formats, such as RDF, OWL, ORM, CL, supporting the state of the art beyond the currently available formats.
+# The Family of CCSDS Navigation Data Messages Ontologies
+A suite of abstract models of and for the [CCSDS](https://public.ccsds.org/default.aspx) family of Navigation Data Messages (NDM). 
+The CCSDS NDMs in additional formats, such as RDF, OWL, ORM, CL to support the state of the art beyond the currently available formats (KVN, XML, etc.).
 
 ## Description
 
 ### Scope
-The ontologies are intended to cover the content of/in the [CCSDS Navigation Data Messages](https://public.ccsds.org/Pubs/500x0g4.pdf), including the key concepts expressed and keywords used in the respective standard documents and in the described data messages. It specifically includes: the Orbit Conjunction Data Message, Orbit Mean-Elements Message, Orbit Ephemeris Message, Orbit Parameter Message.
+The ontologies are intended to cover the content of/in the [CCSDS Navigation Data Messages](https://public.ccsds.org/Pubs/500x0g4.pdf), including the key concepts expressed and keywords used in the respective standard documents and in the described data messages. The family of abstract models specifically includes: the Orbit Conjunction Data Message, Orbit Mean-Elements Message, Orbit Ephemeris Message, Orbit Parameter Message.
          
 ![image](images/NDMTaxo_NDMOntologies_Rovetto.jpg)
 **Figure** (left): Taxonomy of CCSDS NDM. **Figure** (right): The project concept - developing ontologies for each NDM
@@ -17,13 +17,13 @@ The ontologies are intended to cover the content of/in the [CCSDS Navigation Dat
 - To ideate and innovate in support of space data managemnet, and spaceflight safety and sustainability
 
 ### Status
-- In progress, dependent on support
-- As a personal project, support is needed (see links below)
+- In progress.
+- As a personal unfunded project to date, support is needed (see links below)
   
 ## Support - How you can help
-If you find value in this work, please donate at the links below. As unfunded work in my own time, while searching for employment, studentships, and formal collaborations, your support will help maintain and provide ethical compensation for this work which stands to contribute to the community and support safe and sustainable spaceflight into the future. 
+If you find value in this work, please donate at the links below. As unfunded work in my own time, while searching for employment, industry partners, studentships, and formal collaborations, your support will help continue development, maintain and provide ethical compensation for this work, work which stands to contribute to the community and support safe and sustainable spaceflight into the future. 
 
-You can help by offering financial support, employment or study opportunities, industry partnerships, use-cases, datasets, subject-matter expertise, mentorship, pro-bono technical services, co-authorship invitations
+You can help by offering: financial support, employment or study opportunities, industry partnerships, use-cases, datasets, subject-matter expertise, mentorship, pro-bono technical services, co-authorship invitations
 [Contact](https://ontospace.wordpress.com/contact), or [schedule a meeting](https://tinyurl.com/hm8wu2sa) 
 
 * Donate: 
@@ -39,18 +39,23 @@ You can help by offering financial support, employment or study opportunities, i
 - Member, IAF Space Traffic Management Technical Committee
 - Member, AIAA Space Traffic Management Working Group
   
-## Relevant Publications & Presentations by Author
-[See this webpage for full list of relevant articles](https://ontospace.wordpress.com/publications)
+## Prior & Relevant Publications & Presentations by Author
+This work, and the idea for it, has been mentioned in the authors prior works. Example below.
+[See this webpage for relevant articles](https://ontospace.wordpress.com/publications)
+[See this webpage for relevant presentations](https://ontospace.wordpress.com/presentations-posters/)
 
 * [2024 - Knowledge Representation and Model-based systems engineering for Space Data Standards and Fundamentals](https://iafastro.directory/iac/paper/id/82325/summary/), Rovetto.
+*          Presentation at Interantional Astronautical Congress in Milan, 2024.
 * ["Orbital Debris Ontology, Terminology, and Knowledge Modeling"](https://ntrs.nasa.gov/search.jsp?R=20200000988), T.S.Kelso (CelesTrak), R.Rovetto, D.A.O'Neil (NASA
 
 ## Research Material 
 - [CCSDS NDM informational report CCSDS 500.2-G-2](https://public.ccsds.org/Pubs/500x2g2.pdf) or [2023 version](https://public.ccsds.org/Pubs/500x2g3.pdf)
 - [XML Specificaiton CCSDS 505.0-B-2 for NDM](https://public.ccsds.org/Pubs/505x0b2.pdf)
+- https://sanaregistry.org/r/ndmxml_unqualified/
 - https://cwe.ccsds.org/fm/Lists/Projects/DispForm.aspx?ID=639
 - https://ntrs.nasa.gov/citations/20210008315
 - https://github.com/rrovetto/Orbital-Space-Ontology-Project
+
 
 ##  Access
 - Contact to purchase use of the models
