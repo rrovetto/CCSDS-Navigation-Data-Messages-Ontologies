@@ -7,7 +7,7 @@ The CCSDS NDMs in additional formats, such as RDF, OWL, ORM, CL, supporting the 
 ### Scope
 The ontologies are intended to cover the content of/in the [CCSDS Navigation Data Messages](https://public.ccsds.org/Pubs/500x0g4.pdf), including the key concepts expressed and keywords used in the respective standard documents and in the described data messages. It specifically includes: the Orbit Conjunction Data Message, Orbit Mean-Elements Message, Orbit Ephemeris Message, Orbit Parameter Message.
          
-![image](https://github.com/rrovetto/CCSDS-Navigation-Data-Messages-Ontologies/blob/7ddf38403a3c7747f449fd486e6ecb28a563fa56/images/NDMTaxo_NDMOntologies_Rovetto.jpg)
+![image](images/NDMTaxo_NDMOntologies_Rovetto.jpg)
 **Figure** (left): Taxonomy of CCSDS NDM. **Figure** (right): The project concept - developing ontologies for each NDM
 
 ### Purpose
