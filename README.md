@@ -21,9 +21,9 @@ The ontologies are intended to cover the content of/in the [CCSDS Navigation Dat
 - As a personal project, support is needed (see links below)
   
 ## Support - How you can help
-- If you find value in this work, please donate at the links below. As unfunded work in my own time, while searching for employment, studentships, and formal collaborations, your support will help maintain and provide ethical compensation for this work which stands to contribute to the community and support safe and sustainable spaceflight into the future. 
+If you find value in this work, please donate at the links below. As unfunded work in my own time, while searching for employment, studentships, and formal collaborations, your support will help maintain and provide ethical compensation for this work which stands to contribute to the community and support safe and sustainable spaceflight into the future. 
 
-You can help by offerring financial support, employment or study opportunities, industry partnerships, use-cases, datasets, subject-matter expertise, mentorship, technical services, co-authorship invitations
+You can help by offering financial support, employment or study opportunities, industry partnerships, use-cases, datasets, subject-matter expertise, mentorship, pro-bono technical services, co-authorship invitations
 [Contact](https://ontospace.wordpress.com/contact), or [schedule a meeting](https://tinyurl.com/hm8wu2sa) 
 
 * Donate: 
