@@ -51,6 +51,7 @@ You can help by offering financial support, employment or study opportunities, i
 - https://cwe.ccsds.org/fm/Lists/Projects/DispForm.aspx?ID=639
 - https://ntrs.nasa.gov/citations/20210008315
 - https://github.com/rrovetto/Orbital-Space-Ontology-Project
+
 ##  Access
 - Contact to purchase use of the models
 - Funding/sponsors, work collaborations or a PhD study opportunity are needed to continue, sustain and complete development. [Contact the author with interest and offers to help formally support or discuss formal work collaborations](https://ontospace.wordpress.com/contact) [Or Contact via email(mailto:rrovetto@terpalum.umd.edu)
